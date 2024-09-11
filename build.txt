@@ -1,0 +1,12 @@
+Welcome to our build.txt file
+
+Accessing The Correct Directory
+-After downloading "scc210-57".zip, extract the zip file and it should have a folder called "scc210-57"
+-Open the folder, the base directory of the folder should contain all the .java source code and 2 folders containing the javadoc and custom icons respectively.
+
+Compiling/Building
+-Assuming you are on a Linux machine, right-click on an empty space of the folder and select "Open in Terminal" option
+-To compile the program type "javac *.java" into terminal and run.
+
+Running:
+To run the application type "java MemeMachine" into terminal and run.
